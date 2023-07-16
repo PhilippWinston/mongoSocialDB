@@ -1,0 +1,25 @@
+{
+    "name": "Mongo-Social-DB",
+    "version": "1.0.0",
+    "description": "## Table of Contents",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/PhilippWinston/mongoSocialDB"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "",
+    "bugs": {
+      "url": "https://github.com/PhilippWinston/mongoSocialDB"
+    },
+    "homepage": "https://github.com/PhilippWinston/mongoSocialDB",
+    "dependencies": {
+      "express": "^4.17.3",
+      "mongoose": "^6.2.9"
+    }
+  }
